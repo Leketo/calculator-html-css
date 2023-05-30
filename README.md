@@ -16,7 +16,7 @@ This is a simple calculator app created using HTML and CSS. It allows users to p
    ```shell
    git clone https://github.com/Leketo/best-calculator-html-css.git
    ```
-2. Open the index.html file in your web browser.
+2. Open the `index.html` file in your web browser.
 
 3. Use the calculator to perform calculations by clicking on the buttons.
 
