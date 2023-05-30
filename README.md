@@ -2,6 +2,7 @@
 
 This is a simple calculator app created using HTML and CSS. It allows users to perform basic arithmetic operations.
 
+### Demo: https://leketo.github.io/calculator-html-css/
 
 ## Technologies Used
 
@@ -21,7 +22,3 @@ This is a simple calculator app created using HTML and CSS. It allows users to p
 
 ## Customization
 You can customize the calculator's styling by modifying the `style.css` file. Adjust the colors, sizes, or any other styles according to your preferences.
-
-## Author
-Jorge Ramirez
-
